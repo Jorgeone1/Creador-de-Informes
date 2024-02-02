@@ -123,3 +123,5 @@ C:\Users\jww11\Documents\GitHub\Creador-de-Informes\ReportePaises\ReportePaises\
 C:\Users\jww11\Documents\GitHub\Creador-de-Informes\ReportePaises\ReportePaises\obj\Debug\ReportePaises.csproj.CopyComplete
 C:\Users\jww11\Documents\GitHub\Creador-de-Informes\ReportePaises\ReportePaises\obj\Debug\ReportePaises.exe
 C:\Users\jww11\Documents\GitHub\Creador-de-Informes\ReportePaises\ReportePaises\obj\Debug\ReportePaises.pdb
+C:\Users\jww11\Documents\GitHub\Creador-de-Informes\ReportePaises\ReportePaises\bin\Debug\MySql.Data.dll
+C:\Users\jww11\Documents\GitHub\Creador-de-Informes\ReportePaises\ReportePaises\bin\Debug\MySql.Data.xml
