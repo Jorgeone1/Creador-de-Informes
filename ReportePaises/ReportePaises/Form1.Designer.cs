@@ -33,10 +33,10 @@
             // 
             // reportViewer1
             // 
-            this.reportViewer1.Location = new System.Drawing.Point(12, 81);
+            this.reportViewer1.Location = new System.Drawing.Point(12, 12);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(761, 338);
+            this.reportViewer1.Size = new System.Drawing.Size(776, 426);
             this.reportViewer1.TabIndex = 0;
             // 
             // Form1
