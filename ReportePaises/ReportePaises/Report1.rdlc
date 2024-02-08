@@ -6,13 +6,13 @@
         <TablixBody>
           <TablixColumns>
             <TablixColumn>
-              <Width>6.50109cm</Width>
+              <Width>5.79437cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>6.50109cm</Width>
+              <Width>5.79437cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>6.50109cm</Width>
+              <Width>5.79437cm</Width>
             </TablixColumn>
           </TablixColumns>
           <TablixRows>
@@ -227,9 +227,9 @@
         </TablixRowHierarchy>
         <DataSetName>ReportePaises</DataSetName>
         <Top>0.03528cm</Top>
-        <Left>0.44662cm</Left>
+        <Left>2.16641cm</Left>
         <Height>1.3852cm</Height>
-        <Width>19.50327cm</Width>
+        <Width>17.38312cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -240,7 +240,7 @@
     <Height>5.4991cm</Height>
     <Style />
   </Body>
-  <Width>20.97828cm</Width>
+  <Width>22.43349cm</Width>
   <Page>
     <PageHeader>
       <Height>2.8575cm</Height>
@@ -267,7 +267,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox7</rd:DefaultName>
           <Top>0.87326cm</Top>
-          <Left>8.65641cm</Left>
+          <Left>9.60891cm</Left>
           <Height>1.10271cm</Height>
           <Width>5.19017cm</Width>
           <Style>
@@ -282,8 +282,9 @@
         </Textbox>
         <Line Name="Line2">
           <Top>2.54cm</Top>
+          <Left>0.47792in</Left>
           <Height>0cm</Height>
-          <Width>20.59799cm</Width>
+          <Width>19.60562cm</Width>
           <ZIndex>1</ZIndex>
           <Style>
             <Border>
@@ -296,7 +297,7 @@
           <Value>tierra</Value>
           <Sizing>Fit</Sizing>
           <Top>0.66173cm</Top>
-          <Left>6.1716cm</Left>
+          <Left>7.1241cm</Left>
           <Height>1.52577cm</Height>
           <Width>2.11667cm</Width>
           <ZIndex>2</ZIndex>
@@ -314,15 +315,15 @@
       </Style>
     </PageHeader>
     <PageFooter>
-      <Height>2.54cm</Height>
+      <Height>2.61056cm</Height>
       <PrintOnFirstPage>true</PrintOnFirstPage>
       <PrintOnLastPage>true</PrintOnLastPage>
       <ReportItems>
         <Line Name="Line4">
-          <Top>0.3175cm</Top>
-          <Left>0.12912cm</Left>
+          <Top>0.38806cm</Top>
+          <Left>1.21391cm</Left>
           <Height>0cm</Height>
-          <Width>20.53166cm</Width>
+          <Width>19.60562cm</Width>
           <Style>
             <Border>
               <Style>Solid</Style>
@@ -344,8 +345,8 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox2</rd:DefaultName>
-          <Top>0.59972cm</Top>
-          <Left>8.30368cm</Left>
+          <Top>0.67028cm</Top>
+          <Left>9.25618cm</Left>
           <Height>0.91722cm</Height>
           <Width>4.05694cm</Width>
           <ZIndex>1</ZIndex>
