@@ -6,13 +6,13 @@
         <TablixBody>
           <TablixColumns>
             <TablixColumn>
-              <Width>5.79437cm</Width>
+              <Width>1.94909cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>5.79437cm</Width>
+              <Width>4.40972cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>5.79437cm</Width>
+              <Width>4.40972cm</Width>
             </TablixColumn>
           </TablixColumns>
           <TablixRows>
@@ -227,9 +227,9 @@
         </TablixRowHierarchy>
         <DataSetName>ReportePaises</DataSetName>
         <Top>0.03528cm</Top>
-        <Left>2.16641cm</Left>
+        <Left>3.11891cm</Left>
         <Height>1.3852cm</Height>
-        <Width>17.38312cm</Width>
+        <Width>10.76853cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -267,7 +267,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox7</rd:DefaultName>
           <Top>0.87326cm</Top>
-          <Left>9.60891cm</Left>
+          <Left>6.75141cm</Left>
           <Height>1.10271cm</Height>
           <Width>5.19017cm</Width>
           <Style>
@@ -297,7 +297,7 @@
           <Value>tierra</Value>
           <Sizing>Fit</Sizing>
           <Top>0.66173cm</Top>
-          <Left>7.1241cm</Left>
+          <Left>4.2666cm</Left>
           <Height>1.52577cm</Height>
           <Width>2.11667cm</Width>
           <ZIndex>2</ZIndex>
@@ -346,7 +346,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox2</rd:DefaultName>
           <Top>0.67028cm</Top>
-          <Left>9.25618cm</Left>
+          <Left>5.44618cm</Left>
           <Height>0.91722cm</Height>
           <Width>4.05694cm</Width>
           <ZIndex>1</ZIndex>
